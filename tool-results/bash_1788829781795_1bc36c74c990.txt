@@ -1,0 +1,476 @@
+-   July 2,2026
+
+[]
+
+-   July 3,2026
+
+[]
+
+(Week 4 – July - 2026)
+
+  ----------- ----------- ----------- -------- --------- ------------------ ------------------- --- -------------- --
+  Name of     :           Lynus                                                                                    
+  Intern                  B.Fabroa                                                                                 
+
+  Position    :           Frontend                                                                                 
+                          Developer                                                                                
+
+  Office      :           AQUILA                                                                                   
+                          Software                                                                                 
+                          Comp.                                                                                    
+
+                                                                                                                   
+
+  Date / Day                          Actual             Actual                                                    
+                                      Time Log           Accomplishment                                            
+
+                                                                                                                   
+
+  July 6.2026 Monday                  10:30              Continuation of                                           
+                                      A.M                enhancement UI for                                        
+                                                         accounting system                                         
+                                                         for better                                                
+                                                         responsive in each                                        
+                                                         page in menu.                                             
+
+  July 7,2026 Tuesday                 10:30              Meeting with the                                          
+                                      A.M                project manager                                           
+                                                         for the report of                                         
+                                                         last week task.                                           
+
+  July 8,2026 Wednesday               10:30              Assign for                                                
+                                      A.M                creating/editing                                          
+                                                         an demonstration                                          
+                                                         video for company                                         
+                                                         application the                                           
+                                                         Clinix+ app                                               
+
+  July 9,2026 Thursday                10:30              Continuation of                                           
+                                      A.M                editing for the                                           
+                                                         demonstration/                                            
+                                                         tutorial video.                                           
+
+  July        Friday                  10:30              Finishing the                                             
+  10,2026                             A.M                total of 7                                                
+                                                         tutorial video                                            
+
+  TOTAL                                                                                                            
+  HOURS: 40.5                                                                                                      
+  hrs                                                                                                              
+  REMAINING                                                                                                        
+  HOURS: 162                                                                                                       
+  hrs                                                                                                              
+
+  Prepared                                                                  Verified by:                           
+  by:                                                                                                              
+
+                                                                                                                   
+
+  Lynus B.                                               VIRGILIO F. TUGA                                          
+  Fabroa                                                 JR. , MSCS (CAR)                                          
+
+  Name &                                                 OJT Coordinator                                           
+  Signature                                                                                                        
+  of Intern                                                                                                        
+  ----------- ----------- ----------- -------- --------- ------------------ ------------------- --- -------------- --
+
+Documentation (Insert images by day, label the exact date)
+
+-   July 6, 2026
+
+[]
+
+-   July 7,2026
+
+[]
+
+-   July 8, 2026
+
+[] []
+
+-   July 9, 2026
+
+[]
+
+-   July 10, 2026
+
+[]
+
+(Week 5 – July - 2026)
+
+  ----------- ----------- ----------- -------- --------- ---------------- ------------------- --- -------------- --
+  Name of     :           Lynus                                                                                  
+  Intern                  B.Fabroa                                                                               
+
+  Position    :           Frontend                                                                               
+                          Developer                                                                              
+
+  Office      :           AQUILA                                                                                 
+                          Software                                                                               
+                          Comp.                                                                                  
+
+                                                                                                                 
+
+  Date / Day                          Actual             Actual                                                  
+                                      Time Log           Accomplishment                                          
+
+                                                                                                                 
+
+  July        Monday                  10:30              Meeting with the                                        
+  13.2026                             A.M                company                                                 
+                                                         developer for                                           
+                                                         the progress of                                         
+                                                         each system.                                            
+
+  July        Tuesday                 10:30              Continuation for                                        
+  14,2026                             A.M                enhancement of                                          
+                                                         UI especially                                           
+                                                         fixing the                                              
+                                                         payslip of each                                         
+                                                         employee.                                               
+
+  July        Wednesday               10:30              Testing the                                             
+  15,2026                             A.M                updated UI and                                          
+                                                         function of the                                         
+                                                         paysllip page.                                          
+
+  July        Thursday                10:30              Pulling a new                                           
+  16,2026                             A.M                updated backend                                         
+                                                         to proceed for                                          
+                                                         full testing                                            
+                                                         between frontend                                        
+                                                         and backend.                                            
+
+  July        Friday                  10:30              Polishing the UI                                        
+  17,2026                             A.M                to check bugs                                           
+                                                         and error.                                              
+
+  TOTAL                                                                                                          
+  HOURS: 40.5                                                                                                    
+  hrs                                                                                                            
+  REMAINING                                                                                                      
+  HOURS:                                                                                                         
+  121.5 hrs                                                                                                      
+
+  Prepared                                                                Verified by:                           
+  by:                                                                                                            
+
+                                                                                                                 
+
+  Lynus B.                                               VIRGILIO F. TUGA                                        
+  Fabroa                                                 JR. , MSCS (CAR)                                        
+
+  Name &                                                 OJT Coordinator                                         
+  Signature                                                                                                      
+  of Intern                                                                                                      
+  ----------- ----------- ----------- -------- --------- ---------------- ------------------- --- -------------- --
+
+Documentation (Insert images by day, label the exact date)
+
+-   July 13, 2026
+
+[]
+
+-   July 14, 2026
+
+[No description available.]
+
+-   July 15, 2026
+
+[]
+
+-   July 16, 2026
+
+[]
+
+-   July 17, 2026
+
+[]
+
+(Week 6 – July - 2026)
+
+  ----------- ----------- ----------- -------- --------- ---------------- ------------------- --- -------------- --
+  Name of     :           Lynus                                                                                  
+  Intern                  B.Fabroa                                                                               
+
+  Position    :           Frontend                                                                               
+                          Developer                                                                              
+
+  Office      :           AQUILA                                                                                 
+                          Software                                                                               
+                          Comp.                                                                                  
+
+                                                                                                                 
+
+  Date / Day                          Actual             Actual                                                  
+                                      Time Log           Accomplishment                                          
+
+                                                                                                                 
+
+  July        Monday                  10:30              Meeting with                                            
+  20.2026                             A.M                project manager                                         
+                                                         for the last                                            
+                                                         week progress.                                          
+
+  July        Tuesday                 10:30              Assign to                                               
+  21,2026                             A.M                proceed for the                                         
+                                                         next task to fix                                        
+                                                         the payroll page                                        
+                                                         to be                                                   
+                                                         functional.                                             
+
+  July        Wednesday               10:30              Invited in                                              
+  22,2026                             A.M                Sploop Arcade                                           
+                                                         Davao for the                                           
+                                                         business                                                
+                                                         advertising.                                            
+
+  July        Thursday                10:30              Continuation of                                         
+  23,2026                             A.M                assigned task                                           
+                                                         testing and                                             
+                                                         debugging for                                           
+                                                         frontend.                                               
+
+  July        Friday                  10:30              Polishing the UI                                        
+  24,2026                             A.M                to check bugs                                           
+                                                         and error for                                           
+                                                         employee,                                               
+                                                         payroll                                                 
+                                                         processing, and                                         
+                                                         payslip page.                                           
+
+  TOTAL                                                                                                          
+  HOURS: 40.5                                                                                                    
+  hrs                                                                                                            
+  REMAINING                                                                                                      
+  HOURS: 81                                                                                                      
+  hrs                                                                                                            
+
+  Prepared                                                                Verified by:                           
+  by:                                                                                                            
+
+                                                                                                                 
+
+  Lynus B.                                               VIRGILIO F. TUGA                                        
+  Fabroa                                                 JR. , MSCS (CAR)                                        
+
+  Name &                                                 OJT Coordinator                                         
+  Signature                                                                                                      
+  of Intern                                                                                                      
+  ----------- ----------- ----------- -------- --------- ---------------- ------------------- --- -------------- --
+
+Documentation (Insert images by day, label the exact date)
+
+-   July 20, 2026
+
+[]
+
+-   July 21, 2026
+
+[]
+
+-   July 22, 2026
+
+[] []
+
+-   July 23, 2026
+
+[]
+
+-   July 24, 2026
+
+[] []
+
+(Week 7 – July - 2026)
+
+  ----------- ----------- ----------- -------- --------- ---------------- ------------------- --- -------------- --
+  Name of     :           Lynus                                                                                  
+  Intern                  B.Fabroa                                                                               
+
+  Position    :           Frontend                                                                               
+                          Developer                                                                              
+
+  Office      :           AQUILA                                                                                 
+                          Software                                                                               
+                          Comp.                                                                                  
+
+                                                                                                                 
+
+  Date / Day                          Actual             Actual                                                  
+                                      Time Log           Accomplishment                                          
+
+                                                                                                                 
+
+  July        Monday                  10:30              Updating the                                            
+  27.2026                             A.M                system. Checking                                        
+                                                         for the new                                             
+                                                         merge update.                                           
+                                                         Meeting with the                                        
+                                                         company dev.                                            
+
+  July        Tuesday                 10:30              Meeting with the                                        
+  28,2026                             A.M                project manager                                         
+                                                         for the work                                            
+                                                         accomplishment                                          
+                                                         last week.                                              
+                                                         Taking notes for                                        
+                                                         the enhancement                                         
+                                                         and suggestion.                                         
+
+  July        Wednesday               10:30              Starting working                                        
+  29,2026                             A.M                for the                                                 
+                                                         suggestion                                              
+                                                         enhancement of                                          
+                                                         the website.                                            
+
+  July        Thursday                10:30              Cleaning the                                            
+  30,2026                             A.M                office.                                                 
+                                                         Continuation of                                         
+                                                         assigned task                                           
+                                                         testing and                                             
+                                                         debugging for                                           
+                                                         frontend.                                               
+
+  July        Friday                  10:30              Invited for the                                         
+  31,2026                             A.M                company training                                        
+                                                         for AI                                                  
+                                                         automation and                                          
+                                                         quality                                                 
+                                                         assurance                                               
+
+  TOTAL                                                                                                          
+  HOURS: 40.5                                                                                                    
+  hrs                                                                                                            
+  REMAINING                                                                                                      
+  HOURS: 40.5                                                                                                    
+  hrs                                                                                                            
+
+  Prepared                                                                Verified by:                           
+  by:                                                                                                            
+
+                                                                                                                 
+
+  Lynus B.                                               VIRGILIO F. TUGA                                        
+  Fabroa                                                 JR. , MSCS (CAR)                                        
+
+  Name &                                                 OJT Coordinator                                         
+  Signature                                                                                                      
+  of Intern                                                                                                      
+  ----------- ----------- ----------- -------- --------- ---------------- ------------------- --- -------------- --
+
+Documentation (Insert images by day, label the exact date)
+
+-   July 27, 2026
+
+[]
+
+-   July 28, 2026
+
+[No description available.]
+
+-   July 29, 2026
+
+[]
+
+-   July 30, 2026
+
+[No description available.]
+
+-   July 31, 2026
+
+[No description available.]
+
+(Week 7 – July - 2026)
+
+  ----------- ----------- ----------- -------- --------- ---------------- ------------------- --- -------------- --
+  Name of     :           Lynus                                                                                  
+  Intern                  B.Fabroa                                                                               
+
+  Position    :           Frontend                                                                               
+                          Developer                                                                              
+
+  Office      :           AQUILA                                                                                 
+                          Software                                                                               
+                          Comp.                                                                                  
+
+                                                                                                                 
+
+  Date / Day                          Actual             Actual                                                  
+                                      Time Log           Accomplishment                                          
+
+                                                                                                                 
+
+  August      Monday                  10:30              Meeting with the                                        
+  3,2026                              A.M                project manager                                         
+                                                         for the work                                            
+                                                         accomplishment                                          
+                                                         last week and                                           
+                                                         also the final                                          
+                                                         task for the                                            
+                                                         final week                                              
+
+  August      Tuesday                 10:30              Create pull                                             
+  4,2026                              A.M                request for the                                         
+                                                         merge of the new                                        
+                                                         update for the                                          
+                                                         frontend of the                                         
+                                                         system.                                                 
+
+  August      Wednesday               10:30              Resolving a                                             
+  5,2026                              A.M                problem based on                                        
+                                                         the error during                                        
+                                                         merging of the                                          
+                                                         update.                                                 
+
+  August      Thursday                10:30              Create a send                                           
+  6,2026                              A.M                pull request for                                        
+                                                         another update                                          
+                                                         of the frontend.                                        
+
+  August      Friday                  10:30              Final day of the                                        
+  7,2026                              A.M                work. Makin sure                                        
+                                                         the accomplish                                          
+                                                         work already                                            
+                                                         done.                                                   
+
+  TOTAL                                                                                                          
+  HOURS: 40.5                                                                                                    
+  hrs                                                                                                            
+  REMAINING                                                                                                      
+  HOURS: 0                                                                                                       
+  hrs                                                                                                            
+
+  Prepared                                                                Verified by:                           
+  by:                                                                                                            
+
+                                                                                                                 
+
+  Lynus B.                                               VIRGILIO F. TUGA                                        
+  Fabroa                                                 JR. , MSCS (CAR)                                        
+
+  Name &                                                 OJT Coordinator                                         
+  Signature                                                                                                      
+  of Intern                                                                                                      
+  ----------- ----------- ----------- -------- --------- ---------------- ------------------- --- -------------- --
+
+Documentation (Insert images by day, label the exact date)
+
+-   August 3, 2026
+
+[No description available.]
+
+-   August 4, 2026
+
+[No description available.]
+
+-   August 5, 2026
+
+[]
+
+-   August 6, 2026
+
+[No description available.]
+
+-   August 7, 2026
+
+[No description available.]
